@@ -1,6 +1,6 @@
-package test01;
+package test04;
 
-public class Test01 {
+public class Exercise03 { //1~100까지의 정수 중 3의 배수의 합 구하기
 
 	public static void main(String[] args) {
 		 int total = 0;
