@@ -8,4 +8,5 @@ public class ShopService {
 	public static ShopService getInstance() {
 		return singleton;
 	}
+	
 }

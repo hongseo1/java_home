@@ -9,12 +9,15 @@ public class Account {
 	③ Setter의 매개값이 음수이거나 백만 원을 초과하면 현재 balance 값을 유지한다.*/ 
 	
 	private int balance;
-	static final int MIN_BALANCE = 0;
-	static final int MAX_BALANCE = 100;
+	public static final int MIN_BALANCE = 0;
+	public static final int MAX_BALANCE = 1000000;
 	
+	public int getBalance() {
+		return balance;
+	}
 	
 	public void setBalance(int balance) {
-		if(balance<0 || balance>100) {
+		if(balance<MIN_BALANCE || balance>MAX_BALANCE) {
 			return;
 		}
 		this.balance += balance;
