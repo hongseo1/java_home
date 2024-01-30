@@ -6,4 +6,6 @@
 <fullyQualifiedTypeName name="sec01.exam01.DmbcellPhone"/>
 <fullyQualifiedTypeName name="sec01.exam07.pack1.A"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.awt.Desktop.Action"/>
+<fullyQualifiedTypeName name="sec01.test.test02.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>

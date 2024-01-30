@@ -1,13 +1,13 @@
-package sec01.test02;
+package sec01.test.test02;
 
 public class Button {
 	OnClickListener listener;
 	
-	void setOnClickListener(OnClickListener listener) {
+	public void setOnClickListener(OnClickListener listener) {
 		this.listener = listener;
 	}
 	
-	void touch() {
+	public void touch() {
 		listener.onClick();
 	}
 	

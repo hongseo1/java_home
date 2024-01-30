@@ -1,10 +1,8 @@
-package sec01.test08;
+package sec01.test.test02;
 
 public class CallListener implements Button.OnClickListener {
-
 	@Override
 	public void onClick() {
-		System.out.println("전화를 받습니다.");
+		System.out.println("전화를 겁니다.");
 	}
-	
 }
