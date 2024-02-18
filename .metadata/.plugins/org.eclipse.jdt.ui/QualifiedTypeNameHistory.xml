@@ -8,4 +8,8 @@
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.awt.Desktop.Action"/>
 <fullyQualifiedTypeName name="sec01.test.test02.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="test07.NestedClass.Car.Tire"/>
+<fullyQualifiedTypeName name="test07.NestedClass.Car.Engin"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.runtime.output.StAXExStreamWriterOutput"/>
+<fullyQualifiedTypeName name="test07.interfaceButton.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>

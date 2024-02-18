@@ -8,7 +8,7 @@ public class NestedClassExample {
 		Car.Tire tire = myCar.new Tire();
 		
 		//정적 멤버 클래스 객체 생성
-		Car.Engin engin = new Car.Engin();
+		Car.Engine engin = new Car.Engine();
 	}
 
 }
